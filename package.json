@@ -1,0 +1,11 @@
+{
+  "name": "iai-middleware",
+  "version": "0.0.2",
+  "description": "a bunch of middleware plugins for iai",
+  "main": "iai-middleware.js",
+  "dependencies": {
+    "iai-fs": "0.0.3",
+    "iai-core": "0.0.2",
+    "iai-util": "0.0.1"
+  }
+}
