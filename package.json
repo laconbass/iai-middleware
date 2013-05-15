@@ -1,11 +1,12 @@
 {
   "name": "iai-middleware",
-  "version": "0.0.2",
-  "description": "a bunch of middleware plugins for iai",
-  "main": "iai-middleware.js",
+  "version": "0.0.3",
+  "description": "Provides a bunch of express/conect middleware",
+  "main": "lib/middleware.js",
+  "repository": {
+    "type": "git", "url": "https://github.com/laconbass/iai-middleware.git"
+  },
   "dependencies": {
-    "iai-fs": "0.0.3",
-    "iai-core": "0.0.2",
-    "iai-util": "0.0.1"
+    "iai": "0.0.1"
   }
 }
