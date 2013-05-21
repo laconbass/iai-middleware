@@ -7,6 +7,13 @@
     "type": "git", "url": "https://github.com/laconbass/iai-middleware.git"
   },
   "dependencies": {
-    "iai": "0.0.1"
+    "iai-component": "*"
+  },
+  "iai-info": {
+    "aliases": {
+      "ajax navigation": "./navigation",
+      "ui themes": "./themes",
+      "utils": "./misc"
+    }
   }
 }
